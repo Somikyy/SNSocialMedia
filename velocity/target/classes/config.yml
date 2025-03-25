@@ -1,0 +1,49 @@
+# Конфигурация SNSocialMedia для Velocity
+
+# Настройки базы данных
+database:
+  host: localhost
+  port: 3306
+  name: snsocialmedia
+  username: snsocialuser
+  password: Hihet1597531782
+  pool-size: 10
+
+# Настройки сообщений
+messages:
+  prefix: "&6[SNSocialMedia] &r"
+
+# Настройки гильдий
+guild-settings:
+  max-members: 50
+  max-name-length: 16
+  min-name-length: 3
+  creation-cost: 1000
+  default-max-members: 10
+  gui-enabled: true
+  ranks-enabled: true
+  levels-enabled: true
+  wars-enabled: true
+  max-level: 10
+  members-per-level: 5
+
+# Настройки друзей
+friend-settings:
+  max-friends: 100
+  show-join-notifications: true
+  gui-enabled: true
+  best-friends-enabled: true
+  levels-enabled: true
+
+# Настройки пати
+party-settings:
+  max-members: 8
+  default-max-members: 5
+  teleport-enabled: true
+  chat-enabled: true
+  xp-multiplier: 1.25
+
+# Настройки сети
+network:
+  sync-enabled: true
+  sync-interval: 60 

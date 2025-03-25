@@ -1,0 +1,20 @@
+name: SNSocialMedia
+version: 1.0-SNAPSHOT
+main: ru.snsocialmedia.spigot.SNSocialMediaSpigot
+api: '1.16'
+api-version: '1.16'
+authors: [SNSocialMedia Team]
+description: Система Гильдий, Друзей и Пати для Minecraft
+commands:
+  guild:
+    description: Команда для управления гильдиями
+    usage: /guild <создать|информация|пригласить|выйти|вступить>
+    aliases: [g]
+  friend:
+    description: Команда для управления друзьями
+    usage: /friend <добавить|удалить|список>
+    aliases: [f]
+  party:
+    description: Команда для управления пати
+    usage: /party <создать|пригласить|выйти|вступить>
+    aliases: [p]

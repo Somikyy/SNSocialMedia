@@ -1,0 +1,29 @@
+# Конфигурация SNSocialMedia для Velocity
+
+# Настройки базы данных
+[database]
+host = "localhost"
+port = 5432
+name = "snsocialmedia"
+username = "postgres"
+password = "password"
+pool-size = 10
+
+# Настройки сообщений
+[messages]
+prefix = "&6[SNSocialMedia] &r"
+
+# Настройки гильдий
+[guilds]
+max-members = 50
+max-name-length = 16
+min-name-length = 3
+creation-cost = 1000
+
+# Настройки друзей
+[friends]
+max-friends = 100
+
+# Настройки пати
+[parties]
+max-members = 8 

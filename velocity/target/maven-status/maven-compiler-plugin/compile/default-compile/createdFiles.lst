@@ -1,0 +1,11 @@
+ru\snsocialmedia\velocity\listeners\PlayerJoinListener.class
+ru\snsocialmedia\velocity\commands\guild\GuildMenu$1.class
+ru\snsocialmedia\velocity\config\ConfigManager.class
+ru\snsocialmedia\velocity\commands\guild\GuildCommand.class
+ru\snsocialmedia\velocity\listeners\ChatListener.class
+ru\snsocialmedia\velocity\listeners\ProxyMessageListener.class
+ru\snsocialmedia\velocity\commands\friend\FriendCommand.class
+ru\snsocialmedia\velocity\SNSocialMediaVelocity$1.class
+ru\snsocialmedia\velocity\SNSocialMediaVelocity.class
+ru\snsocialmedia\velocity\commands\party\PartyCommand.class
+ru\snsocialmedia\velocity\commands\guild\GuildMenu.class

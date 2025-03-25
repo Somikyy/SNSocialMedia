@@ -1,0 +1,9 @@
+{
+  "id": "snsocialmedia",
+  "name": "SNSocialMedia",
+  "version": "1.0-SNAPSHOT",
+  "description": "Система Гильдий, Друзей и Пати для Minecraft",
+  "authors": ["SNSocialMedia Team"],
+  "dependencies": [],
+  "main": "ru.snsocialmedia.velocity.SNSocialMediaVelocity"
+} 
